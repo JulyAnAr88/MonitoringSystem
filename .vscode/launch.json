@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BackUpTest",
+            "request": "launch",
+            "mainClass": "BackUpDB.BackUpTest",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch CargaTest",
+            "request": "launch",
+            "mainClass": "CargaAutoHarry.CargaTest",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch DialogoExportacion",
+            "request": "launch",
+            "mainClass": "Horarios.DialogoExportacion",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dialogos",
+            "request": "launch",
+            "mainClass": "Horarios.Dialogos",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch HorarioTest",
+            "request": "launch",
+            "mainClass": "Horarios.HorarioTest",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch Install",
+            "request": "launch",
+            "mainClass": "Horarios.Install",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch MisExcepciones",
+            "request": "launch",
+            "mainClass": "Horarios.MisExcepciones",
+            "projectName": "MonitoringSystem"
+        },
+        {
+            "type": "java",
+            "name": "Launch Preferences",
+            "request": "launch",
+            "mainClass": "Horarios.Preferences",
+            "projectName": "MonitoringSystem"
+        }
+    ]
+}
